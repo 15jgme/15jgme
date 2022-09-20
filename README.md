@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @15jgme
 - 👀 I’m interested in robotics and autonomous systems
-- 🌱 I’m currently learning ROS, auto code-generation, data monitering dashboards
-- 💞️ I’m looking to collaborate on rocket projects!🚀
+- 🌱 I’m currently learning ROS, and embedded C++
+- 💞️ I’m looking to collaborate on robotics, estimation, or control projects!🚀
 - 📫 How to reach me https://twitter.com/jgme98
 
 <!---
